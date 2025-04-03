@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: h62c471l7-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/h62c471l7-go
